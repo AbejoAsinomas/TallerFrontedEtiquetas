@@ -1,0 +1,24 @@
+.imagenes {
+    height: 150px;
+    top: 10px;
+    right: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 1%;
+}
+.video{
+    width: 300px;
+    height: 300px;
+    border: 9px solid rgb(255, 166, 0);
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+h1,h2,h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
